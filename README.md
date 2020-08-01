@@ -10,6 +10,8 @@ Neste repositório contém os projetos de Data Science e Machine Learning da [Al
 
    *Os dados do projeto de Data Science podem ser encontrados [aqui](https://github.com/alura-cursos/formacao-data-science)*
    
+   * Link para o notebook com o projeto - https://github.com/henriquevedoveli/projetos-alura/tree/master/projeto-data-science-alura
+   
 ## Projeto Machine Learning Alura
  - Dados do projeto de Machine Learning
     
@@ -24,3 +26,5 @@ Serão analisadas as seguintes situações:
 Para responder essa pergunta os dados foram modelados de duas formas diferentes.
 
    *Os dados do projeto de Machine Learning pode ser encontrado [aqui](http://download.inep.gov.br/microdados/microdados_enem2017.zip)*
+   
+   * Link para o notebook com o projeto - https://github.com/henriquevedoveli/projetos-alura/tree/master/projeto-machine-learning-alura
