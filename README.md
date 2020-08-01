@@ -2,13 +2,15 @@
 
 Neste repositório contém os projetos de Data Science e Machine Learning da [Alura](https://www.alura.com.br/).
 
+## Análise Exploratória do conjunto de dados do MovieLens
  - Dados do projeto de Data Science 
  
  Na projeto de Data Scientist foi realizada uma análise explorátoria do conjunto de dados do [MovieLens](https://grouplens.org/datasets/movielens/). Obtendo informações sobre a avaliação, popularidade, data de produção e gênero dos filmes.
  A ideia é obter informações sobre avaliações, popularidade, data de produção e gênero dos filmes.
 
    *Os dados do projeto de Data Science podem ser encontrados [aqui](https://github.com/alura-cursos/formacao-data-science)*
-    
+   
+## Projeto Machine Learning Alura
  - Dados do projeto de Machine Learning
     
     No projeto de Machine Learning vão ser analisados os dados do Enem 2017. A prova é composta de 9 avaliações distintas: Ciências da Natureza, Ciências Humanas, Linguagens e Códigos, Matemática e 5 competências ligadas a prova de redação. Sendo anilisadas cada competência.
@@ -21,4 +23,4 @@ Serão analisadas as seguintes situações:
 
 Para responder essa pergunta os dados foram modelados de duas formas diferentes.
 
-   *Os dados do projeto de Machine Learnin pode ser encontrado [aqui](http://download.inep.gov.br/microdados/microdados_enem2017.zip)*
+   *Os dados do projeto de Machine Learning pode ser encontrado [aqui](http://download.inep.gov.br/microdados/microdados_enem2017.zip)*
